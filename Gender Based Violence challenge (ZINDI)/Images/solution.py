@@ -1,1 +1,0 @@
-Images generated during compwtition.
