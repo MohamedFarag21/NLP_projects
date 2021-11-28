@@ -16,9 +16,11 @@ This was a challenge introduced by Zindi website for text classification. I am n
 
 2- Category encoding using pandas.
 
-3- Using DL to model.
+3- Using DL as a solution for the problem.
 
 4- For imbalance, I used cost-sensitive approach to penalize the model more when it comes to minor classes.
+
+Final comment, maybe the solution seems to be naive or unprofessional, but as i said this is my first project in NLP. ^^
 
 
 
